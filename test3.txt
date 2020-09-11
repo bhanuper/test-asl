@@ -1,3 +1,4 @@
 hello world3
 remote:second line
 remote_server:third line
+local_master:third line
