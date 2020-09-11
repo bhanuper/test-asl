@@ -1,3 +1,4 @@
 hello world1
 bug1:second line
 master:third line
+bug2:third line
