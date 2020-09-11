@@ -1,1 +1,2 @@
 bug3:first line
+master:stash test
